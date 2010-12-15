@@ -1,6 +1,5 @@
 <?php
  /**
-   * Project: Poison site
    * Author: Stefan Andersen <stfnandersen@gmail.com>
    * File: wbs.php
    * 
