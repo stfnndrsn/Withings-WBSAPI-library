@@ -1,0 +1,13 @@
+Withings WBSAPI library
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Simple WBS API library.
+
+http://www.withings.com/en/api/bodyscale
+
+
+TODO:
+* Implement notify
+* More inline documentation
+* Tidy it up
+* More error handling
